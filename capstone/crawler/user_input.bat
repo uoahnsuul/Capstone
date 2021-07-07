@@ -1,1 +1,0 @@
-python C:\Users\sylim\PycharmProjects\capstone\crawler\user_input.py

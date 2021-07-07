@@ -69,7 +69,7 @@ for i in range(1500):
     X_test_counts = count_vec.transform(dict(text[4:5]))
     X_test_tfidf = tfidf_transformer.transform(X_test_counts)
     c5 = clf.predict(X_test_tfidf)
-    print(i)
+
     if c1 == '0':
         flag0 = flag0 + 1
     elif c1 == '1':

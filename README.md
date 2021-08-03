@@ -30,6 +30,9 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/84764760/127965551-a9f700c5-c5bc-48ab-a5d5-644fea77502f.png" alt="logo" width="1000" height="1500">
 </p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/84764760/127965551-a9f700c5-c5bc-48ab-a5d5-644fea77502f.png" alt="logo" width="1000" height="1500">
+</p>
 
 ## Project Development Tools and Language
 
@@ -47,10 +50,10 @@
     <img src="https://user-images.githubusercontent.com/84764760/127965687-6b1906dc-8718-45e2-bfa8-591699e3a793.png" alt="logo" width="1000" height="500">
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127964709-1a2d119b-8d85-4546-812f-d64bbfa0ff43.png" alt="logo" width="200" height="60">
+    <img src="https://user-images.githubusercontent.com/84764760/127966094-0dfe06e7-6972-4e1c-97a9-218476eb88dc.png" alt="logo" width="1000" height="500">
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127964757-1b374b30-a7a0-4c51-85bb-9f6d7f1602c4.png" alt="logo" width="200" height="60">
+    <img src="https://user-images.githubusercontent.com/84764760/127966030-9af64521-046a-46f4-bad0-431f274b47ad.png" alt="logo" width="1000" height="500">
 </p>
 
 

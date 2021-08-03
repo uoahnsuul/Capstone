@@ -28,7 +28,7 @@
     <img src="https://user-images.githubusercontent.com/84764760/127965392-ca8e8976-e944-4888-b149-68ac97cb0c46.png" alt="logo" width="1000" height="1500">
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127964946-7be06cb4-5103-4f6b-b024-5e4cbaaf1ee9.png" alt="logo" width="1000" height="1500">
+    <img src="https://user-images.githubusercontent.com/84764760/127965551-a9f700c5-c5bc-48ab-a5d5-644fea77502f.png" alt="logo" width="1000" height="1500">
 </p>
 
 ## Project Development Tools and Language
@@ -41,7 +41,7 @@
 
 ## Manual
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127964579-1947c584-cab5-4acd-a008-5beaf76316ff.png" alt="logo" width="200" height="60">
+    <img src="https://user-images.githubusercontent.com/84764760/127965587-0a281c1a-69d2-4cf9-95b6-e4a88eeaa62f.png" alt="logo" width="1000" height="600">
 </p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/84764760/127964658-ef2863d3-7fea-4f16-8b92-8d99fdbdc97a.png" alt="logo" width="200" height="60">

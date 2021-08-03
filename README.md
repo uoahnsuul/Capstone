@@ -25,10 +25,10 @@
 
 ### 머신러닝 기반 온라인 기사 분석 서비스
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127965392-ca8e8976-e944-4888-b149-68ac97cb0c46.png" alt="logo" width="200" height="600">
+    <img src="https://user-images.githubusercontent.com/84764760/127965392-ca8e8976-e944-4888-b149-68ac97cb0c46.png" alt="logo" width="600" height="1200">
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127964946-7be06cb4-5103-4f6b-b024-5e4cbaaf1ee9.png" alt="logo" width="200" height="600">
+    <img src="https://user-images.githubusercontent.com/84764760/127964946-7be06cb4-5103-4f6b-b024-5e4cbaaf1ee9.png" alt="logo" width="600" height="1200">
 </p>
 
 ## Project Development Tools and Language

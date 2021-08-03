@@ -41,10 +41,10 @@
 
 ## Manual
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127965587-0a281c1a-69d2-4cf9-95b6-e4a88eeaa62f.png" alt="logo" width="500" height="300">
+    <img src="https://user-images.githubusercontent.com/84764760/127965587-0a281c1a-69d2-4cf9-95b6-e4a88eeaa62f.png" alt="logo" width="1000" height="500">
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/84764760/127965687-6b1906dc-8718-45e2-bfa8-591699e3a793.png" alt="logo" width="500" height="300">
+    <img src="https://user-images.githubusercontent.com/84764760/127965687-6b1906dc-8718-45e2-bfa8-591699e3a793.png" alt="logo" width="1000" height="500">
 </p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/84764760/127964709-1a2d119b-8d85-4546-812f-d64bbfa0ff43.png" alt="logo" width="200" height="60">
